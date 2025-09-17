@@ -17,7 +17,7 @@ $app = new DogApp($api);
     <title>Dog API</title>
 
     <!--add our css file -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>   
 <body>
 
@@ -44,4 +44,5 @@ $app = new DogApp($api);
     <p>Credits to Dog API </p>
 </footer>
 </body>
+
  </html>
